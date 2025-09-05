@@ -45,5 +45,16 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>We need camera access to scan receipts.</string>
+
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need location access for mileage tracking.</string>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need photo library access to upload receipts.</string>
+
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We need SMS access for OTP autofill.</string>
 </dict>
 </plist>
